@@ -6,3 +6,4 @@ for sor in g:
     személyek.append(listácska)
 g.close()
 print(személyek[1][0])
+print("Csaba",személyek[1][1]," éves")
