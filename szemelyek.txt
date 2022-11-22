@@ -1,0 +1,3 @@
+Gergő;26;Keszthely
+Csaba;30;Budapest
+Mária;50;Oroszlány
